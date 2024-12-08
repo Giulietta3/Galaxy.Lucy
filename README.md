@@ -1,2 +1,4 @@
 # Galaxy.Lucy
-My first Respository
+My first Repository
+This is a test.
+I can write whatever I want 
